@@ -42,7 +42,7 @@
     "leven": "2.1.0",
     "mem": "1.1.0",
     "minimatch": "3.0.4",
-    "minimist": "1.2.0",
+    "minimist": "1.2.2",
     "parse5": "3.0.3",
     "postcss-less": "1.1.5",
     "postcss-media-query-parser": "0.2.3",
